@@ -7,13 +7,13 @@ Soy Jaime Martínez, actualmente estudiante de **Ingeniería de Software** en la
 
 ### 📝 Lenguajes  
 - **Java**: Desarrollo de aplicaciones y algorítmos.
-- **Python**: Ciencia de datos, Machine Learning con scikit-learn y TensorFlow.  
+- **Python**: Ciencia de datos, Machine Learning y Deep Learning.  
 - **SQL**: Gestión de bases de datos, MySQL.  
-- **C**: Programación de bajo nivel, gestión de memoria, sistemas operativos.  
+- **C**: Programación, gestión de memoria, sistemas operativos.  
 
 ### 🌐 Tecnologías  
 - **Machine Learning & Data Science**: Tensorflow, Jupyter Notebooks, Scikit-learn, Pandas, NumPy, Matplot.
-- **DevOps & Herramientas**: Git, Azure, DSL Tools, ASP.NET,MySQL Workbench.  
+- **DevOps & Herramientas**: Git, Azure, DSL Tools, ASP.NET, MySQL Workbench.  
 
 ### 💭 Áreas de Interés  
 - **Deep Learning**: CNNs, RNNs, Keras, Nevergrad, Tensorflow.
@@ -44,7 +44,7 @@ Soy Jaime Martínez, actualmente estudiante de **Ingeniería de Software** en la
 - Desarrollo de modelos de regresión para predecir el precio de coches basados en sus características.  
 - Comparación entre **Linear Regression** y **Gradient Boosting Regressor** scikit-learn de  para evaluar precisión y rendimiento.  
 - **Stack tecnológico**: Python, Jupyter Notebooks.  
-📌 **Skills adquiridas**: Desarrollo de modelos de ML, manejo de herramientas de Data Science.  
+📌 **Skills adquiridas**: Desarrollo, evaluación y optimización de modelos de ML, manejo de herramientas de Data Science.  
 
 ### 🔹 [Proyecto en desarrollo]
 
