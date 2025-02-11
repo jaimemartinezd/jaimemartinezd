@@ -1,4 +1,4 @@
-# ¡Hola!  
+# ¡Hola! 👋
 Soy Jaime Martínez, actualmente estudiante de **Ingeniería de Software** en la **Universidad Politécnica de Madrid (UPM)** y del curso de **Machine Learning** y **Deep Learning** organizado por +Orange, campos sobre los cuales tengo mayor curiosidad e interés por seguir aprendiendo.
 
 ---
