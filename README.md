@@ -44,14 +44,12 @@ Soy Jaime Martínez, actualmente estudiante de **Ingeniería de Software** en la
 - Desarrollo de modelos de regresión para predecir el precio de coches basados en sus características.  
 - Comparación entre **Linear Regression** y **Gradient Boosting Regressor** scikit-learn de  para evaluar precisión y rendimiento.  
 - **Stack tecnológico**: Python, Jupyter Notebooks.  
-📌 **Skills adquiridas**: Desarrollo, evaluación y optimización de modelos de ML, manejo de herramientas de Data Science.  
-
-### 🔹 [Proyecto en desarrollo]
+📌 **Skills adquiridas**: Desarrollo y evaluación de modelos de ML, manejo de herramientas de Data Science.
 
 ---
 
 ## 🎯 Objetivos a Corto Plazo  
-✅ Mejorar mis habilidades en **Machine Learning** con proyectos prácticos.
+✅ Mejorar mis habilidades en **ML y DL** con proyectos prácticos.
 ✅ Seguir ampliando mis conocimientos sobre **Data Science**.  
 ✅ Contribuir a proyectos **open-source** y aprender de la comunidad.  
 
