@@ -28,10 +28,6 @@ Actualmente soy estudiante de **Ingeniería de Software** en la **Universidad Po
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mguily&show_icons=true&theme=dark)
 
-## ⏳ Tiempo de Codificación
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mguily&theme=dark)
-
 ---
 
 ## 🚀 Proyectos Recientes  
