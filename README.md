@@ -33,7 +33,7 @@ Soy Jaime Martínez, actualmente estudiante de **Ingeniería de Software** en la
 ---
 
 ## 🎯 Objetivos a Corto Plazo  
-✅ Mejorar mis habilidades en **ML y DL** con proyectos prácticos.
+✅ Mejorar mis habilidades en **ML y DL** con proyectos prácticos.  
 ✅ Seguir ampliando mis conocimientos sobre **Data Science**.  
 ✅ Contribuir a proyectos **open-source** y aprender de la comunidad.  
 
