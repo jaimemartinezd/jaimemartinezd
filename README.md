@@ -24,9 +24,7 @@ Actualmente soy estudiante de **Ingeniería de Software** en la **Universidad Po
 
 ## 📊 Estadísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mguily&layout=compact&langs_count=6&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mguily&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mguily&layout=compact&langs_count=6&theme=dark) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mguily&show_icons=true&theme=dark)
 
 ---
 
