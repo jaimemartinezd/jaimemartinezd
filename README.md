@@ -22,22 +22,6 @@ Soy Jaime Martínez, actualmente estudiante de **Ingeniería de Software** en la
 
 ---
 
-## 📊 Estadísticas  
-
-<div align="center">
-
-<a href="https://github.com/mguily">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mguily&layout=compact&langs_count=6&theme=dark&custom_title=Lenguajes%20Más%20Usados"/>
-</a>
-
-<a href="https://github.com/mguily">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mguily&show_icons=true&theme=dark&include_all_commits=true&custom_title=Estadísticas%20de%20GitHub"/>
-</a>
-
-</div>
-
----
-
 ## 🚀 Proyectos Recientes  
 
 ### 🔹 **CarPrice Calculator**  
