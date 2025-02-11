@@ -1,5 +1,5 @@
-# ¡Hola, soy [Jaime Martínez]! 👋  
-Actualmente soy estudiante de **Ingeniería de Software** en la **Universidad Politécnica de Madrid (UPM)**. Mi interés principal se basa en el ámbito de la **Inteligencia Artificial**, el **Machine Learning** y el **Deep Learning**.  
+# ¡Hola!  
+Soy Jaime Martínez, actualmente estudiante de **Ingeniería de Software** en la **Universidad Politécnica de Madrid (UPM)** y del curso de **Machine Learning** y **Deep Learning** organizado por +Orange, campos sobre los cuales tengo mayor curiosidad e interés por seguir aprendiendo.
 
 ---
 
