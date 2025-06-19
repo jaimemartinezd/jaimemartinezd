@@ -1,5 +1,5 @@
 # ¡Hola! 👋
-Soy Jaime Martínez, actualmente estudiante de **Ingeniería de Software** en la **Universidad Politécnica de Madrid (UPM)** y del curso de **Machine Learning** y **Deep Learning** organizado por +Orange, campos sobre los cuales tengo mayor curiosidad e interés por seguir aprendiendo.
+Soy Jaime Martínez, actualmente estudiante de **Ingeniería de Software** en la **Universidad Politécnica de Madrid (UPM)** y del curso de **Machine Learning** y **Deep Learning** organizado por +Orange.
 
 ---
 
@@ -16,19 +16,22 @@ Soy Jaime Martínez, actualmente estudiante de **Ingeniería de Software** en la
 - **DevOps & Herramientas**: Git, Azure, DSL Tools, ASP.NET, MySQL Workbench.  
 
 ### 💭 Áreas de Interés  
-- **Deep Learning**: CNNs, RNNs, Keras, Nevergrad, Tensorflow.
-- **Machine Learning**: Modelos de regresión, clasificación, clustering, reducción de dimensionalidad, MLOps. 
+- **Deep Learning**: CNNs, RNNs, Keras, Tensorflow.
+- **Machine Learning**: Modelos de regresión, clasificación, clustering, reducción de dimensionalidad, MLOps.
+- **BBDD**: Relacionales, no relacionales, datos estructurados y semi-estructurados.
 - **Sistemas Operativos**: Diseño de procesos, concurrencia, gestión de memoria.  
 
 ---
 
 ## 🚀 Proyectos Recientes  
 
-### 🔹 **CarPrice Calculator**  
-- Desarrollo de modelos de regresión para predecir el precio de coches basados en sus características.  
-- Comparación entre **Linear Regression** y **Gradient Boosting Regressor** scikit-learn de  para evaluar precisión y rendimiento.  
-- **Stack tecnológico**: Python, Jupyter Notebooks.  
-📌 **Skills adquiridas**: Desarrollo y evaluación de modelos de ML, manejo de herramientas de Data Science.
+### 🔹 **Telecom Customer Clustering**  
+- Análisis exploratorio y limpieza de un dataset crudo de clientes de una compañía de telecomunicaciones.  
+- Selección de variables más relevantes para segmentar a los clientes según la **calidad de red** y la frecuencia de **cortes ópticos** sufridos.  
+- Aplicación de técnicas de **clustering** (K-Means) para identificar patrones y agrupar clientes según su experiencia de servicio.  
+- Para interpretar los clusters generados, se construyó una matriz de visualización con **boxplots en la diagonal** (comparación por variable) y **gráficos de dispersión con ruido** fuera de la diagonal (comparación entre variables).  
+- **Stack tecnológico**: Python, Jupyter Notebooks, pandas, scikit-learn, matplot.  
+📌 **Skills adquiridas**: Preprocesamiento de datos, selección de características, clustering no supervisado, visualización de resultados.
 
 ---
 
@@ -41,5 +44,4 @@ Soy Jaime Martínez, actualmente estudiante de **Ingeniería de Software** en la
 
 ## 📫 Contacto 
 📧 **Correo**: [jaimemartinezdst@gmail.com](jaimemartinezdst@gmail.com)  
-💼 **LinkedIn**: [Jaime Martínez](https://www.linkedin.com/in/jaime-martinez-dominguez-5745b4302/)  
 🧑‍💻 **GitHub**: [@mguily](https://github.com/mguily)  
