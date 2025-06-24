@@ -23,18 +23,6 @@ Soy Jaime Martínez, actualmente estudiante de **Ingeniería de Software** en la
 
 ---
 
-## 🚀 Proyectos Recientes  
-
-### 🔹 **Telecom Customer Clustering**  
-- Análisis exploratorio y limpieza de un dataset crudo de clientes de una compañía de telecomunicaciones.  
-- Selección de variables más relevantes para segmentar a los clientes según la **calidad de red** y la frecuencia de **cortes ópticos** sufridos.  
-- Aplicación de técnicas de **clustering** (K-Means) para identificar patrones y agrupar clientes según su experiencia de servicio.  
-- Para interpretar los clusters generados, se construyó una matriz de visualización con **boxplots en la diagonal** (comparación por variable) y **gráficos de dispersión con ruido** fuera de la diagonal (comparación entre variables).  
-- **Stack tecnológico**: Python, Jupyter Notebooks, pandas, scikit-learn, matplot.  
-📌 **Skills adquiridas**: Preprocesamiento de datos, selección de características, clustering no supervisado, visualización de resultados.
-
----
-
 ## 🎯 Objetivos a Corto Plazo  
 ✅ Mejorar mis habilidades en **ML y DL** con proyectos prácticos.  
 ✅ Seguir ampliando mis conocimientos sobre **Data Science**.  
