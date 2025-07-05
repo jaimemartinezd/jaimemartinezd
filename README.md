@@ -31,5 +31,5 @@ Soy Jaime Martínez, actualmente estudiante de **Ingeniería de Software** en la
 ---
 
 ## 📫 Contacto 
-📧 **Correo**: [jaimemartinezdst@gmail.com](jaimemartinezdst@gmail.com)  
+📧 **Correo**: jaimemartinezdst@gmail.com  
 🧑‍💻 **GitHub**: [@jaimemartinezd](https://github.com/jaimemartinezd)  
